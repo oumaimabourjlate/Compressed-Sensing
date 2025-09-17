@@ -1,3 +1,3 @@
 # This project about using Compressed-sensing for ECG recovery.
-## The first part of the project is about the Compressed sensing theory, its assumption and its differences with claude-shannon theory.
-## The seconf part is about the Sparsity and how we can find a sparse representation of the ECG signals using Deep Learning.
+## The first part of the project focuses on compressed sensing theory, its assumptions, and its differences from the Claude-Shannon theory.
+## The second part focuses on sparsity and how to obtain a sparse representation of ECG signals using deep learning.
